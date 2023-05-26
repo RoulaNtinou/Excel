@@ -32,7 +32,7 @@ Follows the Power Query Diagram View with primary and foreign keys.
 
 #### Data Schema - Diagram View
 
-![Schema](https://github.com/RoulaNtinou/SQL_Movies/blob/06524c9968248cda040d48f3f9cff18a75351912/DataSchema.png)
+![Schema]([https://github.com/RoulaNtinou/Excel/blob/4d6456c690e4892531ac197fd3a3a5233d2e1f55/DiagramView.png])
 
 
 
