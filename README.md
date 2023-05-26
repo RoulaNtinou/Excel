@@ -26,14 +26,13 @@ About:
 The Dataset used for this analysis is a fictional dataset  and is available in the file above.
 
 ### Data Presentation
-The Dataset has 6 tables, with 10.281 customers, 24 stores in three countries and 1560 products.
-Data Cleaning is done by importing the dataset with Power Query and Transform the data.
+The Dataset has 6 tables, with 10.281 customers, 24 stores in three countries and 1560 products.\
+Data Cleaning is done by importing the dataset with Power Query and Transform the data.\
 Follows the Power Query Diagram View with primary and foreign keys.
 
-#### Data Schema - Diagram View
+#### Diagram View
 
-![Schema]([https://github.com/RoulaNtinou/Excel/blob/4d6456c690e4892531ac197fd3a3a5233d2e1f55/DiagramView.png])
-
+ ![Diagram View](https://github.com/RoulaNtinou/Excel/blob/4d6456c690e4892531ac197fd3a3a5233d2e1f55/DiagramView.png)
 
 
 ### Data Analysis
