@@ -27,6 +27,7 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 
 ### Data Presentation
 The Dataset has 6 tables, with 10.281 customers, 24 stores in three countries and 1560 products.\
+The transactions were processed from 1/1/1997 until 31/12/1998.
 Data Cleaning is done by importing the dataset with Power Query and Transform the data.\
 Follows the Power Query Diagram View with primary and foreign keys.
 
