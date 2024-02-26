@@ -8,7 +8,7 @@
 * [Data Presentation](#data-presentation)
 * [Data Analysis](#data-analysis)
 * [Insights](#insights)
-
+- - - -
 ### Problem Statement
 
 The purpose of this analysis is to provide a sales report per customer and country for the CEO of the company.
@@ -20,14 +20,16 @@ About:
 * Products
 * Regions
 
-
+- - - -
 ### Data Sourcing
 
 The Dataset used for this analysis is a fictional dataset  and is available in the file above.
 
+- - - -
+
 ### Data Presentation
 The Dataset has 6 tables, with 10.281 customers, 24 stores in three countries and 1560 products.\
-The transactions were processed from 1/1/1997 until 31/12/1998.
+The transactions were processed from 1/1/1997 until 31/12/1998.\
 Data Cleaning is done by importing the dataset with Power Query and Transform the data.\
 Follows the Power Query Diagram View with primary and foreign keys.
 
@@ -35,7 +37,7 @@ Follows the Power Query Diagram View with primary and foreign keys.
 
  ![Diagram View](https://github.com/RoulaNtinou/Excel/blob/4d6456c690e4892531ac197fd3a3a5233d2e1f55/DiagramView.png)
 
-
+- - - -
 ### Data Analysis
 
 
