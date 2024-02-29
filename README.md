@@ -43,7 +43,7 @@ Follows the Power Query Diagram View with primary and foreign keys.
 
 
 1. 
-![Transactions per Year](https://github.com/RoulaNtinou/Excel/blob/313b0f92253cd9068bee5cbe1cda1a0cd5a38dc2/Transactions.png)
+  ![Transactions per Year](https://github.com/RoulaNtinou/Excel/blob/313b0f92253cd9068bee5cbe1cda1a0cd5a38dc2/Transactions.png)
 
 
 2.	
@@ -51,7 +51,8 @@ Follows the Power Query Diagram View with primary and foreign keys.
 
 
 3.
-    ![Profit](https://github.com/RoulaNtinou/Excel/blob/7d964af56d42ffde0bc633d8eae04b90264ad6b0/Profit.png)
+
+  ![Profit](https://github.com/RoulaNtinou/Excel/blob/7d964af56d42ffde0bc633d8eae04b90264ad6b0/Profit.png)
   
  
 
