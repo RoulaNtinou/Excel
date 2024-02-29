@@ -43,7 +43,7 @@ Follows the Power Query Diagram View with primary and foreign keys.
 
 
 1. 
-![Transactions per Year]()
+![Transactions per Year](https://github.com/RoulaNtinou/Excel/blob/313b0f92253cd9068bee5cbe1cda1a0cd5a38dc2/Transactions.png)
 
 
 2.	We will need separate counts of **inventory items** held at each of your two stores. 
