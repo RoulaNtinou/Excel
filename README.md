@@ -46,19 +46,8 @@ Follows the Power Query Diagram View with primary and foreign keys.
 ![Transactions per Year](https://github.com/RoulaNtinou/Excel/blob/313b0f92253cd9068bee5cbe1cda1a0cd5a38dc2/Transactions.png)
 
 
-2.	We will need separate counts of **inventory items** held at each of your two stores. 
-``` sql
-Select 
-    store_id, 
-    count(inventory_id) As 'Inventory Items'
-From inventory
-Group by store_id
-Order by store_id;
-```
-| store_id   | Inventory Items    | 
-| ---------  |:-------------:     |
-| 1          | 2270               |
-| 2          | 2311               |
+2.	
+   ![Top10 Brands]()
 
 
 3.	We will need a count of **active customers** for each of your stores. Separately, please. 
