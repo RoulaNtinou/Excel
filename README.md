@@ -50,21 +50,11 @@ Follows the Power Query Diagram View with primary and foreign keys.
    ![Top10 Brands](https://github.com/RoulaNtinou/Excel/blob/0d05a8976dbf2d366a9c9284a5e38c57c743d726/Top10Brands.png)
 
 
-3.	We will need a count of **active customers** for each of your stores. Separately, please. 
+3.
+    ![Profit](https://github.com/RoulaNtinou/Excel/blob/7d964af56d42ffde0bc633d8eae04b90264ad6b0/Profit.png)
+  
+ 
 
-``` sql
-Select 
-     store_id, 
-     count(customer_id) as 'Active customers'
-From customer
-Where active=1
-Group by store_id;
-```
-
-| store_id   | Active customers   | 
-| ---------  |:-------------:     |
-| 1          | 318                |
-| 2          | 266                |
 
 
 4.	In order to assess the liability of a data breach, we will need you to provide a count 
