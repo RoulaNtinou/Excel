@@ -19,6 +19,7 @@ About:
 * Customers
 * Products
 * Regions
+* Profit
 
 - - - -
 ### Data Sourcing
@@ -41,25 +42,7 @@ Follows the Power Query Diagram View with primary and foreign keys.
 ### Data Analysis
 
 
-1. We will need a list of **all staff members**, including their first and last names, 
-email addresses, and the store identification number where they work. 
-
-
-``` sql
-Select 
-    staff_id, 
-    first_name , 
-    last_name,
-    email, 
-    store_id
-From staff;
-```
-
-| staff_id   | first_name    | last_name  |  email                        |  store_id |
-| ---------  |:-------------:| -----:     | --------------------------:   | -----:    |
-| 1          | Mick          | Hillyer    | Mike.Hillyer@sakilastaff.com  |  1        |
-| 2          | Jon           | Stephens   | Jon.Stephens@sakilastaff.com  |  2        |
-
+1. 
 
 
 
