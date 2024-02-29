@@ -47,7 +47,7 @@ Follows the Power Query Diagram View with primary and foreign keys.
 
 
 2.	
-   ![Top10 Brands]()
+   ![Top10 Brands](https://github.com/RoulaNtinou/Excel/blob/0d05a8976dbf2d366a9c9284a5e38c57c743d726/Top10Brands.png)
 
 
 3.	We will need a count of **active customers** for each of your stores. Separately, please. 
