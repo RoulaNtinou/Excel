@@ -36,6 +36,13 @@ Follows the Power Query Diagram View with primary and foreign keys.
 
 #### Diagram View
 
+  > * After importing the data with Power Query, we Transform the data(checking: data types, headers names, text-columns adjustments,dates-column format)/
+  > and finally we Load the data to the Data Model.
+  >
+  > * Organize the tables in a relational database based on primary and foreign keys, by creating table relationships.
+  >   
+  > * Extract the Diagram View that follows.
+
  ![Diagram View](https://github.com/RoulaNtinou/Excel/blob/4d6456c690e4892531ac197fd3a3a5233d2e1f55/DiagramView.png)
 
 - - - -
@@ -47,7 +54,8 @@ Follows the Power Query Diagram View with primary and foreign keys.
 
 
 2.	
-   ![Top10 Brands](https://github.com/RoulaNtinou/Excel/blob/0d05a8976dbf2d366a9c9284a5e38c57c743d726/Top10Brands.png)
+
+ ![Top10 Brands](https://github.com/RoulaNtinou/Excel/blob/0d05a8976dbf2d366a9c9284a5e38c57c743d726/Top10Brands.png)
 
 
 3.
@@ -58,15 +66,7 @@ Follows the Power Query Diagram View with primary and foreign keys.
 
 
 
-4.	In order to assess the liability of a data breach, we will need you to provide a count 
-of all customer **email addresses** stored in the database. 
-``` sql
-Select 
-      count(email) as 'Number of emails'
-From customer;
-```
-
-> Numeber of emails : 599
+4.	
 
 
 
