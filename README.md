@@ -50,8 +50,8 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 ### Data Analysis
 
 
-1.                                                                                                                                                                                         > The transactions have increased more than 100% the second year and this is due to 11 stores bought by the company at the begining of 1998.
- >
+1.                                                                                                                                                                                         >  * The transactions have increased more than 100% the second year and this is due to 11 stores bought by the company at the begining of 1998.
+ 
   
   ![Transactions per Year](https://github.com/RoulaNtinou/Excel/blob/313b0f92253cd9068bee5cbe1cda1a0cd5a38dc2/Transactions.png)
 
