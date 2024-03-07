@@ -15,11 +15,11 @@ The purpose of this analysis is to provide a sales report per customer and count
 
 About:
 * Transactions
-* Returns
-* Customers
+* Profit
+* Brands
 * Products
 * Regions
-* Profit
+
 
 - - - -
 ### Data Sourcing
@@ -63,7 +63,8 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
  
 
 
-3.
+3. > Follow the top ten brands based on the profit gained.
+
  ![Top10 Brands](https://github.com/RoulaNtinou/Excel/blob/0d05a8976dbf2d366a9c9284a5e38c57c743d726/Top10Brands.png)
   
   
