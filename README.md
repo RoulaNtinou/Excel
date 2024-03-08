@@ -19,6 +19,7 @@ About:
 * Brands
 * Products
 * Regions
+* Customers
 
 
 - - - -
@@ -79,7 +80,8 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
    ![Products](https://github.com/RoulaNtinou/Excel/blob/b22ec0407b378b36f7ae3889e5dcee5985002170/Products.png)
 
 
-5. > 
+5. > Stores per city and profit.
+   > 
       ![Regions](https://github.com/RoulaNtinou/Excel/blob/18b8a983e15a26fa245e644dde48b33a3902f494/Cities.png)
 
 - - - -
