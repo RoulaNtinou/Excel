@@ -79,8 +79,8 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
    ![Products](https://github.com/RoulaNtinou/Excel/blob/b22ec0407b378b36f7ae3889e5dcee5985002170/Products.png)
 
 
-5.	
-
+5. > 
+      ![Regions](https://github.com/RoulaNtinou/Excel/blob/952143d848cc53cee931813a14c8adcf216c2e62/StoresCityProfit.png)
 
 - - - -
 
