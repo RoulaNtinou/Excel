@@ -88,7 +88,7 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 
 6. > Profit report for Month over Month percentage change.
 
-![Profit report]()
+![Profit report](https://github.com/RoulaNtinou/Excel/blob/f514b0a05db5585e2bcbce2ebcd2e131b2202012/ProfitChange.png)
 
 7. > Price threshold for transactions and profit proportions
    >
