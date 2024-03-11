@@ -77,12 +77,12 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 4. > The top 100 products sorted by profit.
    > The graph indicates a disparity between profitability and sales volume.	
 
-   ![Products](https://github.com/RoulaNtinou/Excel/blob/7a51693037941635309d21b5619d695b4c437c02/Products.png)
+![Products](https://github.com/RoulaNtinou/Excel/blob/7a51693037941635309d21b5619d695b4c437c02/Products.png)
 
 
-5. > Stores per city and profit.
+5. > Stores per city, profit and year.
    > 
-      ![Regions](https://github.com/RoulaNtinou/Excel/blob/18b8a983e15a26fa245e644dde48b33a3902f494/Cities.png)
+      ![Regions]()
 
 - - - -
 
