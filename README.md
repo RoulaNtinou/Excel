@@ -82,7 +82,7 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 
 5. > Stores per city, profit and year.
    > 
-      ![Regions]()
+      ![Regions](https://github.com/RoulaNtinou/Excel/blob/29ab2c3ffd74b95b2fa1848fb7978a79e5c0adf9/CitiesProfit.png)
 
 - - - -
 
