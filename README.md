@@ -92,7 +92,7 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 
 7. > Price threshold for transactions and profit proportions
    >
- ![Price Threshold Report]()
+ ![Price Threshold Report](https://github.com/RoulaNtinou/Excel/blob/39be146b7701652cc563244392c9d98ea1f3128c/PriceThreshold.png)
 
 8. > Summary Report
    > 
