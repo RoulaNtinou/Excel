@@ -67,7 +67,7 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 
 3. > The top ten brands based on the profit gained.
 
- ![Top10 Brands](https://github.com/RoulaNtinou/Excel/blob/0d05a8976dbf2d366a9c9284a5e38c57c743d726/Top10Brands.png)
+ ![Top10 Brands](https://github.com/RoulaNtinou/Excel/blob/7e79938b66b092370592b21d39e2feb06a1b302c/TopBrands.png)
   
   
  
