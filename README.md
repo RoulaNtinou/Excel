@@ -81,8 +81,23 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 
 
 5. > Stores per city, profit and year.
+   >
    > 
-      ![Regions](https://github.com/RoulaNtinou/Excel/blob/29ab2c3ffd74b95b2fa1848fb7978a79e5c0adf9/CitiesProfit.png)
+ ![Regions](https://github.com/RoulaNtinou/Excel/blob/29ab2c3ffd74b95b2fa1848fb7978a79e5c0adf9/CitiesProfit.png)
+
+
+6. > Profit report for Month over Month percentage change.
+
+![Profit report]()
+
+7. > Price threshold for transactions and profit proportions
+   >
+ ![Price Threshold Report]()
+
+8. > Summary Report
+   > 
+![Summary Report]()
+   
 
 - - - -
 
