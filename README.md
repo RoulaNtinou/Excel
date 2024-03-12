@@ -19,7 +19,9 @@ About:
 * Brands
 * Products
 * Regions
-* Customers
+* Profit % change report
+* Price Threshold Report
+* Summary Report
 
 
 - - - -
@@ -88,11 +90,11 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 
 6. > Profit report for Month over Month percentage change.
 
-![Profit report](https://github.com/RoulaNtinou/Excel/blob/f514b0a05db5585e2bcbce2ebcd2e131b2202012/ProfitChange.png)
+![Profit % change report](https://github.com/RoulaNtinou/Excel/blob/f514b0a05db5585e2bcbce2ebcd2e131b2202012/ProfitChange.png)
 
 7. > Price threshold for transactions and profit proportions
    >
- ![Price Threshold Report](https://github.com/RoulaNtinou/Excel/blob/39be146b7701652cc563244392c9d98ea1f3128c/PriceThreshold.png)
+ ![Price Threshold Report](https://github.com/RoulaNtinou/Excel/blob/5d37a4343124cae0b24d032d8f0d25141b1e3efb/PriceThreshold.png)
 
 8. > Summary Report
    > 
