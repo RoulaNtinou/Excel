@@ -96,7 +96,7 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 
 8. > Summary Report
    > 
-![Summary Report](https://github.com/RoulaNtinou/Excel/blob/4d01862e4ebe47869be461f99d545b740a92356f/SummaryTable.png)
+![Summary Report](https://github.com/RoulaNtinou/Excel/blob/988534207e5a02df28b4dac4212ae6d9d90be4de/SummaryTable.png)
    
 
 - - - -
