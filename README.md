@@ -1,4 +1,4 @@
-# Excel Sales Project
+# Sales Report Project
 
 
 ## Table of Contents
