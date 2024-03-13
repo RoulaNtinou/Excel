@@ -83,7 +83,7 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 
 
 5. > Stores per city, profit and year.\
-   > The **cities are sorted according to the total profit for the two years**.\ 
+   > The **cities are sorted according to the total profit for the two years**.
    > The only city that has two stores is Hidalgo
    
  ![Regions](https://github.com/RoulaNtinou/Excel/blob/29ab2c3ffd74b95b2fa1848fb7978a79e5c0adf9/CitiesProfit.png)
