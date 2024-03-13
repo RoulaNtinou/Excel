@@ -53,21 +53,21 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 ### Data Analysis
 
 
-1. >  The transactions have increased more than 100% the second year and this is due to 11 stores bought by the company at the beginning of 1998.
+1. >  The **transactions have increased more than 100% the second year and this is due to 11 stores bought** by the company at the beginning of 1998.
  
   
   ![Transactions per Year](https://github.com/RoulaNtinou/Excel/blob/313b0f92253cd9068bee5cbe1cda1a0cd5a38dc2/Transactions.png)
 
 
-2. > The new stores bought at the beginning of 1998, are outside USA, and more specifically in Mexico and Canada.
-   > The increase of the profit depicts the acquisition of stores in 1998.	
+2. > The **new stores bought at the beginning of 1998**, are outside USA, and more specifically in Mexico and Canada.
+   > The increase of the profit depicts the acquisition of 11 stores in 1998.	
 
 
   ![Profit](https://github.com/RoulaNtinou/Excel/blob/7d964af56d42ffde0bc633d8eae04b90264ad6b0/Profit.png)
  
 
 
-3. > The top ten brands based on the profit gained.
+3. > The **top ten brands** based on the profit.
 
  ![Top10 Brands](https://github.com/RoulaNtinou/Excel/blob/7e79938b66b092370592b21d39e2feb06a1b302c/TopBrands.png)
   
@@ -76,28 +76,30 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 
 
 
-4. > The top 100 products sorted by profit.
+4. > The **top 100 products** sorted by profit.
    > The graph indicates a disparity between profitability and sales volume.	
 
 ![Products](https://github.com/RoulaNtinou/Excel/blob/7a51693037941635309d21b5619d695b4c437c02/Products.png)
 
 
 5. > Stores per city, profit and year.
-   >
-   > 
+   > The **cities are sorted according to the total profit for the two years**. 
+   > The only city that has two stores is Hidalgo
+   
  ![Regions](https://github.com/RoulaNtinou/Excel/blob/29ab2c3ffd74b95b2fa1848fb7978a79e5c0adf9/CitiesProfit.png)
 
 
 6. > Profit report for Month over Month percentage change.
+   > We can see the **seasonality of the profits and the huge increase at the beginning of 1998.**
 
 ![Profit % change report](https://github.com/RoulaNtinou/Excel/blob/f514b0a05db5585e2bcbce2ebcd2e131b2202012/ProfitChange.png)
 
 7. > Price threshold for transactions and profit proportions
-   >
+   > This is a tool to **explore the source of profit based on the price of the products**
  ![Price Threshold Report](https://github.com/RoulaNtinou/Excel/blob/5d37a4343124cae0b24d032d8f0d25141b1e3efb/PriceThreshold.png)
 
 8. > Summary Report
-   > 
+   > **Increase of sales and profit and a profit margin about 60%.**
 ![Summary Report](https://github.com/RoulaNtinou/Excel/blob/988534207e5a02df28b4dac4212ae6d9d90be4de/SummaryTable.png)
    
 
