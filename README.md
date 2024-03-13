@@ -83,7 +83,7 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 
 
 5. > Stores per city, profit and year.\
-   > The **cities are sorted according to the total profit for the two years**.\ 
+   > The **cities are sorted according to the total profit for the two years**. \ 
    > The only city that has two stores is Hidalgo
    
  ![Regions](https://github.com/RoulaNtinou/Excel/blob/29ab2c3ffd74b95b2fa1848fb7978a79e5c0adf9/CitiesProfit.png)
@@ -106,4 +106,18 @@ The Dataset used for this analysis is a fictional dataset  and is available in t
 - - - -
 
 ### Insights
+
+* **Acquisition Impact**: The significant increase in transactions and profit in the second year is attributed to the acquisition of 11 stores at the beginning of 1998. This suggests that the acquisition strategy has been successful in driving growth and expanding market presence.
+
+* **International Expansion**: The new stores acquired in 1998 are located outside the USA, specifically in Mexico and Canada. This indicates a strategic move towards international expansion, potentially tapping into new markets and diversifying the company's geographical footprint.
+  
+* **Profitability vs. Sales Volume**: The graph depicting a disparity between profitability and sales volume suggests that certain products or markets may be driving sales volume but not contributing significantly to overall profitability. This highlights the importance of analyzing profitability metrics alongside sales volume to make informed business decisions.
+  
+* **City-wise Profit Analysis**: Sorting cities according to total profit for the two years provides visibility into which cities are the most profitable markets for the company. This information can inform future expansion plans and resource allocation strategies.
+  
+* **Seasonality and Growth**: Seasonality patterns in profits, along with a notable increase at the beginning of 1998, indicate the impact of external factors or strategic initiatives on the company's financial performance. Understanding seasonality can help in planning inventory, staffing, and marketing activities effectively.
+  
+* **Price-based Profit Analysis**: The tool for exploring the source of profit based on product prices allows the company to identify the price thresholds that maximize transaction volume and profitability. This insight can inform pricing strategies and product assortment decisions.
+  
+* **Summary Report**: The overall increase in sales and profit, coupled with a healthy profit margin of about 60%, reflects positive financial performance and operational efficiency. It suggests that the company's strategic decisions, including acquisitions and international expansion, have been successful in driving growth and profitability.
 
