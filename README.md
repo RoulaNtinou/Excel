@@ -9,7 +9,7 @@
 * [Data Analysis](#data-analysis)
 * [Insights](#insights)
 
-  Please see the [Excel file]()
+  Please see the [Excel file](https://github.com/RoulaNtinou/Sales_Report_Excel/blob/6a3142c660a010c84ce2af0b22111c40dba4591d/FoodMartDataModel.xlsx)
 - - - -
 ### Problem Statement
 
